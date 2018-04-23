@@ -1,0 +1,5 @@
+package: github.com/jemmycalak/calak_chatdate_postgre
+import:
+- package: github.com/gorilla/mux
+  version: v1.6.1
+- package: github.com/lib/pq
